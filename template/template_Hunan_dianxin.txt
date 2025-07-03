@@ -86,3 +86,5 @@ http://ipipip/rtp/239.76.255.39:9000
 http://ipipip/rtp/239.76.255.48:9000
 #EXTINF:-1 tvg-id="益阳新闻综合" tvg-name="益阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/益阳新闻综合.png" group-title="卫视高清",益阳新闻综合
 http://ipipip/rtp/239.76.248.15:1234
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+http://ipipip/rtp/239.76.254.72:9000
